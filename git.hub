@@ -1,0 +1,9 @@
+1029  git status # durumu basar
+  1030  git add * # eklenmeyen dosya varsa ekler 
+ 1032  git commit -m "test file" # yorum satiri ekler
+ 1033  git remote add origin https://github.com/tlhcelik/arp-poisoner.git # uzak sunucu ayarini yapar. varsa exist verr yoksa eklr
+ 1034  git pull origin master # ?
+
+1039  git push origin master # master brancina ekler yukarda .git uzantisini verdik
+
+
